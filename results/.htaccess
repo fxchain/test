@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "hwf"
+AuthUserFile /var/www/wwf/contest/results/.htpasswd
+Require valid-user
